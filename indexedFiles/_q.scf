@@ -1,4 +1,4 @@
-cfs entry for: _j.fld
+cfs entry for: _q.fld
 doc 0
   field 0
     name titolo
@@ -208,7 +208,7 @@ doc 3
   field 0
     name titolo
     type string
-    value 883 Hanno ucciso lUomo Ragno .txt
+    value 883 Hanno ucciso l'Uomo Ragno .txt
   field 1
     name contenuto
     type string
@@ -1994,7 +1994,6 @@ Once upon a time you dressed so fine, Mary\
 Like just a woman\
 Like a rolling stone\
 \
-rosso\
 \
 [Ritornello]\
 Cuccurucucù paloma\
@@ -2011,8 +2010,6 @@ Come on baby let's twist again\
 Once upon a time you dressed so fine, Mary\
 Like just a woman\
 Like a rolling stoneEmbed\
-\
-banana\
 
 doc 28
   field 0
@@ -2537,7 +2534,6 @@ E allora accarezzo la mia solitudine\
 Ed ognuno ha il suo corpo, a cui sa cosa chiedere\
 Chiedere, chiedere, chiedere\
 \
-banana\
 \
 [Ritornello]\
 Fammi sognare, lei si morde la bocca e si sente l'America\
@@ -2549,7 +2545,6 @@ Cercherai, mi hanno sempre detto cercherai\
 E troverò, ora che ti accarezzo, troverò\
 Ma quanta fantasia ci vuole per sentirsi in due?\
 \
-rosso\
 [Ritornello]\
 Fammi sognare, lei si morde la bocca e si sente l'America\
 Fammi volare, lui allunga la mano e si tocca l'America\
@@ -2714,7 +2709,7 @@ doc 39
   field 0
     name titolo
     type string
-    value Gianna Nannini Sei nellanima .txt
+    value Gianna Nannini Sei nell'anima .txt
   field 1
     name contenuto
     type string
@@ -3442,7 +3437,7 @@ doc 53
   field 0
     name titolo
     type string
-    value Marco Mengoni Lessenziale .txt
+    value Marco Mengoni L'essenziale .txt
   field 1
     name contenuto
     type string
@@ -4962,7 +4957,7 @@ Mentre il tempo spegne quello che sei\
 Ti tradirei, oooh\
 Ti lascerei, oooh\
 Ti tradirei e scapperei come un fulmine\
-Per dimostrare tutto ciò che puoi perdere3Embed\
+Per dimostrare tutto ciò che puoi perdere3Embed aiuola\
 
 doc 76
   field 0
@@ -6501,8 +6496,8 @@ Senza una donna\
 Givin' me torture and blissYou might also likeEmbed\
 
 END
-checksum 00000000001728827614
-cfs entry for: _j.inf
+checksum 00000000000593854534
+cfs entry for: _q.inf
 number of fields 2
   name titolo
   number 0
@@ -6531,7 +6526,7 @@ number of fields 2
   dimensional num bytes 0
   soft-deletes false
 checksum 00000000002512564477
-cfs entry for: _j.len
+cfs entry for: _q.len
 field titolo
   type NUMERIC
   minvalue 3
@@ -6542,7 +6537,7 @@ T
 T
 0
 T
-2
+3
 T
 1
 T
@@ -6614,7 +6609,7 @@ T
 T
 2
 T
-2
+3
 T
 5
 T
@@ -6642,7 +6637,7 @@ T
 T
 3
 T
-1
+2
 T
 5
 T
@@ -6941,8 +6936,8 @@ T
 16
 T
 END
-checksum 00000000001379891422
-cfs entry for: _j.pst
+checksum 00000000000934901559
+cfs entry for: _q.pst
 field contenuto
   term a
     doc 0
@@ -7116,10 +7111,10 @@ field contenuto
       pos 177
       pos 186
       pos 189
-      pos 215
-      pos 234
-      pos 243
-      pos 246
+      pos 214
+      pos 233
+      pos 242
+      pos 245
     doc 29
       freq 1
       pos 79
@@ -7624,7 +7619,7 @@ field contenuto
     doc 35
       freq 2
       pos 31
-      pos 109
+      pos 108
   term accasciato
     doc 80
       freq 3
@@ -7980,7 +7975,7 @@ field contenuto
     doc 27
       freq 2
       pos 174
-      pos 231
+      pos 230
     doc 71
       freq 31
       pos 4
@@ -8240,14 +8235,14 @@ field contenuto
       pos 8
       pos 74
       pos 139
-      pos 196
+      pos 195
   term ahiaiaiaiaiaiaiai
     doc 27
       freq 4
       pos 14
       pos 80
       pos 145
-      pos 202
+      pos 201
   term ai
     doc 1
       freq 2
@@ -8290,6 +8285,9 @@ field contenuto
       freq 2
       pos 127
       pos 250
+    doc 75
+      freq 1
+      pos 257
   term al
     doc 1
       freq 1
@@ -8765,8 +8763,8 @@ field contenuto
       pos 261
     doc 35
       freq 2
-      pos 66
-      pos 137
+      pos 65
+      pos 135
   term allungano
     doc 48
       freq 1
@@ -8913,7 +8911,7 @@ field contenuto
       pos 377
     doc 35
       freq 1
-      pos 169
+      pos 167
     doc 36
       freq 1
       pos 256
@@ -9356,13 +9354,13 @@ field contenuto
       freq 9
       pos 0
       pos 4
-      pos 62
-      pos 73
-      pos 84
-      pos 96
-      pos 133
-      pos 144
-      pos 155
+      pos 61
+      pos 72
+      pos 83
+      pos 95
+      pos 131
+      pos 142
+      pos 153
     doc 77
       freq 2
       pos 19
@@ -9381,7 +9379,7 @@ field contenuto
   term americayou
     doc 35
       freq 1
-      pos 167
+      pos 165
   term amiamo
     doc 82
       freq 1
@@ -9559,10 +9557,10 @@ field contenuto
       pos 480
     doc 35
       freq 4
-      pos 76
-      pos 87
-      pos 147
-      pos 158
+      pos 75
+      pos 86
+      pos 145
+      pos 156
     doc 38
       freq 1
       pos 123
@@ -11187,7 +11185,7 @@ field contenuto
     doc 27
       freq 2
       pos 170
-      pos 227
+      pos 226
     doc 32
       freq 5
       pos 10
@@ -11546,13 +11544,6 @@ field contenuto
     doc 26
       freq 1
       pos 28
-  term banana
-    doc 27
-      freq 1
-      pos 249
-    doc 35
-      freq 1
-      pos 49
   term banca
     doc 17
       freq 1
@@ -11713,7 +11704,7 @@ field contenuto
       pos 140
     doc 27
       freq 1
-      pos 206
+      pos 205
   term battito
     doc 34
       freq 1
@@ -12311,8 +12302,8 @@ field contenuto
       pos 25
     doc 35
       freq 2
-      pos 57
-      pos 128
+      pos 56
+      pos 126
     doc 36
       freq 4
       pos 27
@@ -13437,7 +13428,7 @@ field contenuto
     doc 27
       freq 2
       pos 155
-      pos 212
+      pos 211
     doc 52
       freq 3
       pos 217
@@ -13572,8 +13563,8 @@ field contenuto
       pos 81
       pos 140
       pos 146
-      pos 197
-      pos 203
+      pos 196
+      pos 202
   term canti
     doc 20
       freq 2
@@ -14205,8 +14196,8 @@ field contenuto
   term cercherai
     doc 35
       freq 2
-      pos 98
-      pos 103
+      pos 97
+      pos 102
   term cercherò
     doc 35
       freq 2
@@ -14703,7 +14694,7 @@ field contenuto
       pos 331
     doc 35
       freq 1
-      pos 107
+      pos 106
     doc 36
       freq 6
       pos 74
@@ -15813,7 +15804,7 @@ field contenuto
       pos 370
     doc 35
       freq 1
-      pos 114
+      pos 113
     doc 37
       freq 2
       pos 54
@@ -16600,7 +16591,7 @@ field contenuto
     doc 27
       freq 2
       pos 168
-      pos 225
+      pos 224
     doc 28
       freq 2
       pos 93
@@ -16632,8 +16623,8 @@ field contenuto
       pos 280
     doc 35
       freq 2
-      pos 81
-      pos 152
+      pos 80
+      pos 150
     doc 37
       freq 3
       pos 132
@@ -17644,7 +17635,7 @@ field contenuto
       pos 207
     doc 27
       freq 1
-      pos 208
+      pos 207
     doc 88
       freq 4
       pos 57
@@ -18250,7 +18241,7 @@ field contenuto
       pos 10
       pos 76
       pos 141
-      pos 198
+      pos 197
   term cuccurucucù
     doc 27
       freq 6
@@ -18259,7 +18250,7 @@ field contenuto
       pos 6
       pos 72
       pos 137
-      pos 194
+      pos 193
   term cucina
     doc 18
       freq 1
@@ -19912,7 +19903,7 @@ field contenuto
     doc 35
       freq 2
       pos 16
-      pos 102
+      pos 101
     doc 47
       freq 1
       pos 155
@@ -22200,7 +22191,7 @@ field contenuto
     doc 27
       freq 2
       pos 180
-      pos 237
+      pos 236
   term drink
     doc 52
       freq 1
@@ -22282,7 +22273,7 @@ field contenuto
       pos 313
     doc 35
       freq 1
-      pos 119
+      pos 118
     doc 43
       freq 1
       pos 92
@@ -22600,7 +22591,7 @@ field contenuto
     doc 27
       freq 2
       pos 41
-      pos 207
+      pos 206
     doc 28
       freq 7
       pos 26
@@ -22678,11 +22669,11 @@ field contenuto
       freq 7
       pos 25
       pos 29
-      pos 58
-      pos 69
-      pos 104
-      pos 129
-      pos 140
+      pos 57
+      pos 68
+      pos 103
+      pos 127
+      pos 138
     doc 36
       freq 41
       pos 1
@@ -23391,8 +23382,8 @@ field contenuto
     doc 35
       freq 3
       pos 35
-      pos 92
-      pos 163
+      pos 91
+      pos 161
     doc 36
       freq 3
       pos 35
@@ -23735,7 +23726,7 @@ field contenuto
       pos 467
     doc 35
       freq 1
-      pos 171
+      pos 169
     doc 40
       freq 1
       pos 91
@@ -24822,14 +24813,14 @@ field contenuto
       pos 261
     doc 35
       freq 8
-      pos 51
-      pos 63
-      pos 74
-      pos 85
-      pos 122
-      pos 134
-      pos 145
-      pos 156
+      pos 50
+      pos 62
+      pos 73
+      pos 84
+      pos 120
+      pos 132
+      pos 143
+      pos 154
   term famo
     doc 10
       freq 1
@@ -24892,7 +24883,7 @@ field contenuto
       pos 370
     doc 35
       freq 1
-      pos 113
+      pos 112
   term fantasmi
     doc 32
       freq 1
@@ -25645,7 +25636,7 @@ field contenuto
     doc 27
       freq 2
       pos 182
-      pos 239
+      pos 238
     doc 32
       freq 1
       pos 251
@@ -26150,14 +26141,14 @@ field contenuto
   term forte
     doc 35
       freq 8
-      pos 77
-      pos 80
-      pos 88
-      pos 91
-      pos 148
-      pos 151
-      pos 159
-      pos 162
+      pos 76
+      pos 79
+      pos 87
+      pos 90
+      pos 146
+      pos 149
+      pos 157
+      pos 160
     doc 36
       freq 10
       pos 39
@@ -26238,8 +26229,8 @@ field contenuto
       pos 276
     doc 35
       freq 2
-      pos 82
-      pos 153
+      pos 81
+      pos 151
     doc 40
       freq 1
       pos 56
@@ -26414,7 +26405,7 @@ field contenuto
       pos 139
     doc 27
       freq 1
-      pos 205
+      pos 204
   term frappè
     doc 22
       freq 2
@@ -26503,7 +26494,7 @@ field contenuto
     doc 27
       freq 2
       pos 163
-      pos 220
+      pos 219
   term frightened
     doc 99
       freq 3
@@ -26522,7 +26513,7 @@ field contenuto
     doc 27
       freq 2
       pos 161
-      pos 218
+      pos 217
     doc 98
       freq 1
       pos 113
@@ -27730,7 +27721,7 @@ field contenuto
     doc 27
       freq 2
       pos 165
-      pos 222
+      pos 221
   term goonies
     doc 31
       freq 1
@@ -28491,7 +28482,7 @@ field contenuto
     doc 35
       freq 2
       pos 14
-      pos 100
+      pos 99
   term happy
     doc 2
       freq 3
@@ -28548,7 +28539,7 @@ field contenuto
     doc 27
       freq 2
       pos 160
-      pos 217
+      pos 216
   term here
     doc 33
       freq 2
@@ -29049,7 +29040,7 @@ field contenuto
       freq 3
       pos 33
       pos 154
-      pos 211
+      pos 210
     doc 28
       freq 6
       pos 89
@@ -30339,7 +30330,7 @@ field contenuto
       pos 427
     doc 35
       freq 1
-      pos 118
+      pos 117
     doc 37
       freq 1
       pos 10
@@ -31257,8 +31248,8 @@ field contenuto
       pos 117
     doc 35
       freq 2
-      pos 93
-      pos 164
+      pos 92
+      pos 162
     doc 36
       freq 3
       pos 36
@@ -31653,7 +31644,7 @@ field contenuto
     doc 27
       freq 2
       pos 185
-      pos 242
+      pos 241
     doc 52
       freq 1
       pos 44
@@ -31818,18 +31809,18 @@ field contenuto
       pos 453
     doc 35
       freq 12
-      pos 61
-      pos 72
-      pos 75
-      pos 83
-      pos 86
-      pos 95
-      pos 132
-      pos 143
-      pos 146
-      pos 154
-      pos 157
-      pos 166
+      pos 60
+      pos 71
+      pos 74
+      pos 82
+      pos 85
+      pos 94
+      pos 130
+      pos 141
+      pos 144
+      pos 152
+      pos 155
+      pos 164
     doc 36
       freq 3
       pos 103
@@ -32251,10 +32242,10 @@ field contenuto
     doc 35
       freq 5
       pos 32
-      pos 56
-      pos 67
-      pos 127
-      pos 138
+      pos 55
+      pos 66
+      pos 125
+      pos 136
     doc 36
       freq 7
       pos 25
@@ -32612,7 +32603,7 @@ field contenuto
     doc 27
       freq 2
       pos 152
-      pos 209
+      pos 208
     doc 99
       freq 2
       pos 43
@@ -33274,8 +33265,8 @@ field contenuto
       pos 211
     doc 35
       freq 2
-      pos 53
-      pos 124
+      pos 52
+      pos 122
     doc 45
       freq 1
       pos 20
@@ -33343,7 +33334,7 @@ field contenuto
     doc 27
       freq 2
       pos 171
-      pos 228
+      pos 227
     doc 95
       freq 2
       pos 5
@@ -33556,8 +33547,8 @@ field contenuto
       pos 150
       pos 184
       pos 188
-      pos 241
-      pos 245
+      pos 240
+      pos 244
     doc 28
       freq 1
       pos 206
@@ -33581,7 +33572,7 @@ field contenuto
       pos 378
     doc 35
       freq 1
-      pos 170
+      pos 168
     doc 40
       freq 1
       pos 90
@@ -33877,7 +33868,7 @@ field contenuto
     doc 27
       freq 2
       pos 159
-      pos 216
+      pos 215
     doc 34
       freq 1
       pos 338
@@ -34406,8 +34397,8 @@ field contenuto
       pos 203
     doc 35
       freq 2
-      pos 65
-      pos 136
+      pos 64
+      pos 134
     doc 56
       freq 2
       pos 16
@@ -35131,7 +35122,7 @@ field contenuto
       pos 405
     doc 35
       freq 1
-      pos 111
+      pos 110
     doc 37
       freq 1
       pos 143
@@ -35343,7 +35334,7 @@ field contenuto
     doc 27
       freq 2
       pos 153
-      pos 210
+      pos 209
   term madre
     doc 13
       freq 1
@@ -36012,8 +36003,8 @@ field contenuto
       pos 64
     doc 35
       freq 2
-      pos 68
-      pos 139
+      pos 67
+      pos 137
     doc 44
       freq 1
       pos 133
@@ -36186,7 +36177,7 @@ field contenuto
     doc 27
       freq 2
       pos 183
-      pos 240
+      pos 239
   term marzo
     doc 83
       freq 1
@@ -37198,7 +37189,7 @@ field contenuto
       pos 13
       pos 23
       pos 27
-      pos 99
+      pos 98
     doc 36
       freq 7
       pos 75
@@ -37861,7 +37852,7 @@ field contenuto
       pos 376
     doc 35
       freq 1
-      pos 168
+      pos 166
     doc 36
       freq 1
       pos 255
@@ -38643,8 +38634,8 @@ field contenuto
   term morde
     doc 35
       freq 2
-      pos 55
-      pos 126
+      pos 54
+      pos 124
   term mordo
     doc 91
       freq 2
@@ -38888,7 +38879,7 @@ field contenuto
     doc 27
       freq 2
       pos 162
-      pos 219
+      pos 218
     doc 34
       freq 1
       pos 337
@@ -42026,7 +42017,7 @@ field contenuto
     doc 27
       freq 2
       pos 164
-      pos 221
+      pos 220
     doc 32
       freq 41
       pos 40
@@ -42253,7 +42244,7 @@ field contenuto
     doc 27
       freq 2
       pos 169
-      pos 226
+      pos 225
     doc 52
       freq 2
       pos 25
@@ -42283,7 +42274,7 @@ field contenuto
     doc 27
       freq 2
       pos 175
-      pos 232
+      pos 231
   term onda
     doc 12
       freq 2
@@ -42385,7 +42376,7 @@ field contenuto
       pos 373
     doc 35
       freq 1
-      pos 106
+      pos 105
     doc 37
       freq 1
       pos 164
@@ -42674,7 +42665,7 @@ field contenuto
       pos 187
     doc 27
       freq 1
-      pos 204
+      pos 203
     doc 29
       freq 1
       pos 141
@@ -42885,8 +42876,8 @@ field contenuto
       pos 79
       pos 138
       pos 144
-      pos 195
-      pos 201
+      pos 194
+      pos 200
   term palude
     doc 34
       freq 1
@@ -44076,7 +44067,7 @@ field contenuto
     doc 35
       freq 2
       pos 18
-      pos 116
+      pos 115
     doc 38
       freq 2
       pos 28
@@ -45356,10 +45347,10 @@ field contenuto
       pos 438
     doc 35
       freq 4
-      pos 79
-      pos 90
-      pos 150
-      pos 161
+      pos 78
+      pos 89
+      pos 148
+      pos 159
     doc 36
       freq 5
       pos 80
@@ -47476,7 +47467,7 @@ field contenuto
       pos 299
     doc 35
       freq 1
-      pos 112
+      pos 111
     doc 39
       freq 1
       pos 92
@@ -49491,7 +49482,7 @@ field contenuto
       pos 71
       pos 111
       pos 136
-      pos 193
+      pos 192
     doc 28
       freq 2
       pos 40
@@ -49524,8 +49515,8 @@ field contenuto
       pos 379
     doc 35
       freq 2
-      pos 50
-      pos 121
+      pos 49
+      pos 119
     doc 38
       freq 2
       pos 30
@@ -49891,7 +49882,7 @@ field contenuto
     doc 27
       freq 2
       pos 190
-      pos 247
+      pos 246
   term rom
     doc 10
       freq 1
@@ -49955,18 +49946,12 @@ field contenuto
     doc 22
       freq 1
       pos 44
-    doc 27
-      freq 1
-      pos 192
     doc 31
       freq 1
       pos 286
     doc 34
       freq 1
       pos 60
-    doc 35
-      freq 1
-      pos 120
   term rota
     doc 14
       freq 1
@@ -50103,7 +50088,7 @@ field contenuto
     doc 27
       freq 2
       pos 166
-      pos 223
+      pos 222
   term ruembed
     doc 47
       freq 1
@@ -50165,7 +50150,7 @@ field contenuto
     doc 27
       freq 2
       pos 172
-      pos 229
+      pos 228
     doc 33
       freq 4
       pos 18
@@ -52323,11 +52308,11 @@ field contenuto
       freq 7
       pos 9
       pos 15
-      pos 78
-      pos 89
-      pos 101
-      pos 149
-      pos 160
+      pos 77
+      pos 88
+      pos 100
+      pos 147
+      pos 158
     doc 39
       freq 2
       pos 48
@@ -52475,8 +52460,8 @@ field contenuto
       pos 401
     doc 35
       freq 2
-      pos 60
-      pos 131
+      pos 59
+      pos 129
     doc 78
       freq 1
       pos 34
@@ -52562,7 +52547,7 @@ field contenuto
       pos 70
     doc 35
       freq 1
-      pos 117
+      pos 116
     doc 89
       freq 1
       pos 187
@@ -53156,12 +53141,12 @@ field contenuto
       pos 281
     doc 35
       freq 6
-      pos 54
-      pos 59
-      pos 70
-      pos 125
-      pos 130
-      pos 141
+      pos 53
+      pos 58
+      pos 69
+      pos 123
+      pos 128
+      pos 139
     doc 36
       freq 1
       pos 100
@@ -53685,7 +53670,7 @@ field contenuto
     doc 27
       freq 2
       pos 181
-      pos 238
+      pos 237
     doc 31
       freq 1
       pos 56
@@ -53814,8 +53799,8 @@ field contenuto
       pos 138
     doc 35
       freq 2
-      pos 52
-      pos 123
+      pos 51
+      pos 121
     doc 42
       freq 1
       pos 21
@@ -54514,8 +54499,8 @@ field contenuto
     doc 35
       freq 3
       pos 8
-      pos 94
-      pos 165
+      pos 93
+      pos 163
     doc 46
       freq 2
       pos 79
@@ -55949,7 +55934,7 @@ field contenuto
   term stoneembed
     doc 27
       freq 1
-      pos 248
+      pos 247
   term stonerai
     doc 67
       freq 1
@@ -56327,7 +56312,7 @@ field contenuto
     doc 35
       freq 2
       pos 5
-      pos 97
+      pos 96
     doc 38
       freq 2
       pos 7
@@ -58869,7 +58854,7 @@ field contenuto
       pos 355
     doc 35
       freq 1
-      pos 108
+      pos 107
     doc 36
       freq 8
       pos 37
@@ -59198,7 +59183,7 @@ field contenuto
     doc 27
       freq 2
       pos 178
-      pos 235
+      pos 234
     doc 52
       freq 2
       pos 246
@@ -59337,8 +59322,8 @@ field contenuto
       pos 36
     doc 35
       freq 2
-      pos 71
-      pos 142
+      pos 70
+      pos 140
   term toccare
     doc 31
       freq 1
@@ -59975,8 +59960,8 @@ field contenuto
       pos 90
     doc 35
       freq 2
-      pos 105
-      pos 110
+      pos 104
+      pos 109
     doc 50
       freq 2
       pos 35
@@ -60033,7 +60018,7 @@ field contenuto
     doc 27
       freq 2
       pos 156
-      pos 213
+      pos 212
   term trying
     doc 52
       freq 2
@@ -60545,7 +60530,7 @@ field contenuto
     doc 27
       freq 2
       pos 167
-      pos 224
+      pos 223
   term tuffiamo
     doc 11
       freq 1
@@ -61103,7 +61088,7 @@ field contenuto
     doc 27
       freq 2
       pos 173
-      pos 230
+      pos 229
   term tí
     doc 88
       freq 7
@@ -61130,7 +61115,7 @@ field contenuto
       pos 11
       pos 77
       pos 142
-      pos 199
+      pos 198
   term uacciu
     doc 26
       freq 2
@@ -61209,7 +61194,7 @@ field contenuto
       pos 12
       pos 78
       pos 143
-      pos 200
+      pos 199
     doc 88
       freq 3
       pos 215
@@ -62498,7 +62483,7 @@ field contenuto
     doc 27
       freq 2
       pos 176
-      pos 233
+      pos 232
     doc 98
       freq 1
       pos 47
@@ -64302,8 +64287,8 @@ field contenuto
       pos 399
     doc 35
       freq 2
-      pos 64
-      pos 135
+      pos 63
+      pos 133
     doc 43
       freq 1
       pos 33
@@ -64768,7 +64753,7 @@ field contenuto
       pos 424
     doc 35
       freq 1
-      pos 115
+      pos 114
     doc 66
       freq 1
       pos 93
@@ -64987,7 +64972,7 @@ field contenuto
     doc 27
       freq 2
       pos 157
-      pos 214
+      pos 213
     doc 52
       freq 2
       pos 193
@@ -65033,7 +65018,7 @@ field contenuto
     doc 27
       freq 2
       pos 187
-      pos 244
+      pos 243
     doc 99
       freq 2
       pos 106
@@ -65289,7 +65274,7 @@ field contenuto
       freq 3
       pos 147
       pos 179
-      pos 236
+      pos 235
     doc 29
       freq 1
       pos 137
@@ -66064,6 +66049,10 @@ field titolo
     doc 44
       freq 1
       pos 3
+  term anima
+    doc 39
+      freq 1
+      pos 4
   term annalisa
     doc 5
       freq 1
@@ -66424,6 +66413,10 @@ field titolo
     doc 99
       freq 1
       pos 4
+  term essenziale
+    doc 53
+      freq 1
+      pos 3
   term essere
     doc 18
       freq 1
@@ -66637,6 +66630,12 @@ field titolo
       freq 1
       pos 1
   term l
+    doc 3
+      freq 1
+      pos 2
+    doc 53
+      freq 1
+      pos 2
     doc 70
       freq 1
       pos 4
@@ -66661,10 +66660,6 @@ field titolo
     doc 62
       freq 1
       pos 1
-  term lessenziale
-    doc 53
-      freq 1
-      pos 2
   term ligabue
     doc 45
       freq 1
@@ -66693,10 +66688,6 @@ field titolo
     doc 43
       freq 1
       pos 3
-  term luomo
-    doc 3
-      freq 1
-      pos 2
   term mai
     doc 0
       freq 1
@@ -66867,7 +66858,7 @@ field titolo
     doc 23
       freq 1
       pos 2
-  term nellanima
+  term nell
     doc 39
       freq 1
       pos 3
@@ -67055,7 +67046,7 @@ field titolo
   term ragno
     doc 3
       freq 1
-      pos 3
+      pos 4
   term regalo
     doc 85
       freq 1
@@ -67350,7 +67341,7 @@ field titolo
       pos 2
     doc 3
       freq 1
-      pos 4
+      pos 5
     doc 4
       freq 1
       pos 3
@@ -67458,7 +67449,7 @@ field titolo
       pos 4
     doc 39
       freq 1
-      pos 4
+      pos 5
     doc 40
       freq 1
       pos 7
@@ -67500,7 +67491,7 @@ field titolo
       pos 5
     doc 53
       freq 1
-      pos 3
+      pos 4
     doc 54
       freq 1
       pos 7
@@ -67678,6 +67669,9 @@ field titolo
       freq 1
       pos 3
   term uomo
+    doc 3
+      freq 1
+      pos 3
     doc 58
       freq 1
       pos 3
@@ -67789,18 +67783,18 @@ field titolo
       freq 1
       pos 0
 END
-checksum 00000000003848844624
+checksum 00000000000368618979
 table of contents, size: 4
-  filename: _j.fld
+  filename: _q.fld
     start: 22
-    end: 181324
-  filename: _j.inf
-    start: 181346
-    end: 181950
-  filename: _j.len
-    start: 181972
-    end: 183017
-  filename: _j.pst
-    start: 183039
-    end: 971530
-table of contents begins at offset: 0000000000000971530
+    end: 181302
+  filename: _q.inf
+    start: 181324
+    end: 181928
+  filename: _q.len
+    start: 181950
+    end: 182995
+  filename: _q.pst
+    start: 183017
+    end: 971481
+table of contents begins at offset: 0000000000000971481
