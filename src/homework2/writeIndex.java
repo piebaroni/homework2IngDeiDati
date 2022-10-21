@@ -42,7 +42,7 @@ public class writeIndex {
 
 	private static void indexDocs(Directory directory, Codec codec, File folder) throws IOException {
 		Analyzer defaultAnalyzer = new StandardAnalyzer();
-		CharArraySet stopWords = new CharArraySet(Arrays.asList(), true);
+		CharArraySet stopWords = new CharArraySet(Arrays.asList("in", "dei", "di", "con", "a", "la", "il"), true);
 		Map<String, Analyzer> perFieldAnalyzers = new HashMap<>();
 		perFieldAnalyzers.put("contenuto", new StopAnalyzer(stopWords));
 		perFieldAnalyzers.put("titolo", new StopAnalyzer(stopWords));

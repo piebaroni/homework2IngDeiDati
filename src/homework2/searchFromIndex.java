@@ -59,7 +59,7 @@ public class searchFromIndex {
 		String scelta = scanner.nextLine();
 
 		if(scelta.contentEquals("titolo") || scelta.contentEquals("contenuto")) {
-			CharArraySet stopWords = new CharArraySet(Arrays.asList(), true);
+			CharArraySet stopWords = new CharArraySet(Arrays.asList("in", "dei", "di", "con", "a", "la", "il"), true);
 			Analyzer analyzer = new StopAnalyzer(stopWords);
 			QueryParser parser = new QueryParser(scelta, analyzer);
 			Query query = parser.parse(stringaQuery);
